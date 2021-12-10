@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  display: inline;
+  padding: 0.3rem;
+  margin: 0.3rem;
+  background-color: #fca5a5;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+.musicList {
+  text-decoration: none;
+  list-style: none;
+  text-align: left;
+  border: 1.5px solid #e5e7eb;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1rem auto;
+  width: 60%;
+}
+
+.spanText {
+  font-weight: bold;
+  color: #1f2937;
+}
+
+.songDet {
+  color: #374151;
+}
