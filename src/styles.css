@@ -4,30 +4,34 @@
 }
 button {
   display: inline;
-  padding: 0.3rem;
+  padding: 0.4rem;
   margin: 0.3rem;
-  background-color: #fca5a5;
+  background-color: #00203fff;
   font-weight: bold;
   cursor: pointer;
   border-radius: 0.5rem;
+  color: #adefd1ff;
+  border: 0.2rem solid #adefd1ff;
 }
 
-.musicList {
+.movieList {
   text-decoration: none;
   list-style: none;
   text-align: left;
-  border: 1.5px solid #e5e7eb;
+  border: 0.2rem solid #adefd1ff;
   border-radius: 0.5rem;
   padding: 1rem;
   margin: 1rem auto;
   width: 60%;
+  background-color: #00203fff;
+  color: #adefd1ff;
 }
 
 .spanText {
   font-weight: bold;
-  color: #1f2937;
+  color: #adefd1ff;
 }
 
 .songDet {
-  color: #374151;
+  color: #adefd1ff;
 }
